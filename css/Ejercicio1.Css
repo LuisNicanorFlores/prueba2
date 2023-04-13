@@ -1,0 +1,15 @@
+body{
+    background-color: olivedrab;
+    text-align: center;
+    font-size: 20px;
+    color: aqua;
+}
+footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    text-align: left;
+    vertical-align: bottom;
+    font-size: 30px;
+    background-color: azure;
+  }

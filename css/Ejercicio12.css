@@ -1,0 +1,17 @@
+body{
+    background-color: brown;
+}
+p{
+    font-size: 19px;
+    color: aquamarine;
+    text-align: justify;
+}
+footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    text-align: left;
+    vertical-align: bottom;
+    font-size: 30px;
+    background-color: azure;
+  }

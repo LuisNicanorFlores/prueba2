@@ -1,0 +1,15 @@
+body{
+    background-color: lawngreen;
+    font-size: 20px;
+    text-align: center;
+    color: black;
+    
+}
+ footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    text-align: left;
+    vertical-align: bottom;
+    font-size: 20px;
+  }

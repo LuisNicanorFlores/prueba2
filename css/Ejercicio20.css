@@ -1,0 +1,16 @@
+body{
+    background: rgba(218, 15, 150, 0.712)
+   }
+   
+   body p{
+       text-align: center;
+   }
+
+   footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    text-align: left;
+    vertical-align: bottom;
+    font-size: 20px;
+  }

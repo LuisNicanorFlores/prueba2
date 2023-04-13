@@ -1,0 +1,20 @@
+body{
+ background: rgba(200, 101, 14, 0.756);
+}
+
+body p{
+    text-align: center;
+}
+
+input{
+    background-color: yellowgreen;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    text-align: left;
+    vertical-align: bottom;
+    font-size: 20px;
+  }
